@@ -1,1 +1,1 @@
-"# hackathon_info_2025" 
+## Információs dokumentumok a 2025-ös Silicon Labs Hackathon eseményre
